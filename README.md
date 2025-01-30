@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Nayan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Angular Project
+
 
 
 
